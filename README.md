@@ -17,7 +17,7 @@ https://ieeexplore.ieee.org/abstract/document/10507828
 
 <br/>
 
-## Concep of RoI-Attention
+## Concept of RoI-Attention
 
 ![image](https://github.com/gymoon10/Segmentation-with-RoI-Attention-Network/assets/44194558/6b378333-631b-473e-b147-007cb02a50e6)
 
